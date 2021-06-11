@@ -20,7 +20,7 @@
 https://www.linkedin.com/in/rachid-boubaya-b763a859/
     
 
--   ![smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png) 2021 goals: acquiring skills in different fields, Azure and AWS, software Engineering as well as Machine Learning and IA
+-   ![smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png) #2021 goals: acquiring skills in different fields, Azure and AWS, software Engineering as well as Machine Learning and IA#
     
 -   ![zap](https://github.githubassets.com/images/icons/emoji/unicode/26a1.png)  Fun fact: I have Two Master's degrees in two different fields. I have finally found my way when I started programming during the confinement....
     

@@ -12,9 +12,11 @@
  ## My name is **Rachid** and I'm in the beginning of my exciting career- and life-changing journey towards becoming a ***Devops IA Cloud Engineer*** ##
  
 
--   ![telescope](https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png)  I’m currently working on **Microsoft Azure** and using many techno such Terraform, Ansible, Packer, Docker, Kunernetes etc..
-    
--   ![seedling](https://github.githubassets.com/images/icons/emoji/unicode/1f331.png)  I’m currently learning programming,  **Python**,  **JavaScript**,  **Typscript** and **C#**
+-   ![telescope](https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png)  I’m currently working on **Microsoft Azure** and **AWS**, using many technos such Terraform, Ansible, Packer, Docker, Kunernetes etc...
+-       
+-   ![seedling](https://github.githubassets.com/images/icons/emoji/unicode/1f331.png)  I’m currently learning programming,  **Python**,  **JavaScript**,  **Typscript**, **C#**, **SQL**, **NOSQL**
+
+-   ![wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f527.png)  I'm currently learning ***Machine Learning and IA*** (due to my strong background in Maths)
 
 -   ![mailbox](https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png)  You can find me on :  [LinkedIn]
 https://www.linkedin.com/in/rachid-boubaya-b763a859/

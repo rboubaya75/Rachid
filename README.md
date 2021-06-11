@@ -4,7 +4,7 @@
 
 
 
-## Hello World ! ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
+## Hello ! ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
 
 
 

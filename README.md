@@ -9,13 +9,12 @@
 
 
 
- ## My name is **Rachid** and I'm in the beginning of my exciting career- and life-changing journey towards becoming a ***Devops IA Cloud Engineer*** ##
+ ## My name is **Rachid** and I'm starting a very exciting career- and challenging journey to become a ***Devops IA Cloud Engineer*** ##
  
 
 -   ![telescope](https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png)  I’m currently working on **Microsoft Azure** and **AWS**, using many technos such Terraform, Ansible, Packer, Docker, Kunernetes etc...
    
--   ![wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f527.png)I’m currently learning programming,  **Python**,  **JavaScript**,  **Typscript**, **C#**, **SQL**, **NOSQL**
-
+-   ![wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f527.png)I’m currently learning programming,  **Python**,  **JavaScript**,  **Typscript**, **C#**, **SQL**, **NOSQL*
 
 -   ![seedling](https://github.githubassets.com/images/icons/emoji/unicode/1f331.png)   I'm currently learning ***Machine Learning and IA*** (due to my strong background in Maths)
 

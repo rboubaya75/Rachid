@@ -20,5 +20,5 @@
 https://www.linkedin.com/in/rachid-boubaya-b763a859/
     
     
--   ![zap](https://github.githubassets.com/images/icons/emoji/unicode/26a1.png)  Fun fact: I have Two Master's degrees in two different fields. I have finally found my way when I started programming during the containement
+-   ![zap](https://github.githubassets.com/images/icons/emoji/unicode/26a1.png) Fun fact: I have a background in accounting and finance where I was always bored. I finally found my way when I started programming during containment. A new professional life is starting, a rebirth. 
     

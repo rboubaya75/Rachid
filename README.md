@@ -8,7 +8,7 @@
 
 
 
- ## My name is Rachid and I'm starting a very exciting career as a Devops Cloud Engineer. During the containment I realised how important Cloud Computing has become for companies and I decided to take this opportunity to change the direction I want to take for the rest of my career...One thing is for sure, I'll always learn new things, I'll never get bored any more
+ ## My name is Rachid and I'm starting a very exciting career as a Devops Cloud Engineer. During the containment I realised how important Cloud Computing has become for companies. Thus, I decided to take this opportunity to change the direction I want to take for the rest of my career...One thing is for sure, I'll always learn new things, I'll never get bored any more
 
 
 

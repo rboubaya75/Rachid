@@ -14,7 +14,7 @@
 
 -   ![telescope](https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png) I am currently working on **Microsoft Azure** using many techniques such as Terraform, Ansible, Packer, Docker, Kunernetes etc... The Cloud is such an ocean, there is so much to learn, let's dive in, let's always learn, that's my motto.
    
--   ![wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f527.png)I love learning new languages, currently working with  **Python**,  **JavaScript**,  **Typscript**, **C#**, **SQL**, **NOSQL*...
+-   ![wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f527.png)I love learning new languages, currently working with  **Python**,  **JavaScript**,  **Typscript**, **C#**, **SQL**, **NOSQL**...
 
 -   ![mailbox](https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png)  You can find me on :  [LinkedIn]
 https://www.linkedin.com/in/rachid-boubaya-b763a859/

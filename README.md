@@ -8,9 +8,9 @@
 
 
 
+ ## My name is Rachid and I'm starting a very exciting career as a Devops Cloud Engineer*** ## During the containment I realised how important Cloud Computing has become for companies and I decided to take this opportunity to change the direction I want to take for the rest of my career...One thing is for sure, I'll always learn new things, I'll never get bored any more
 
- ## My name is **Rachid** and I'm starting a very exciting career- and challenging journey to become a ***Devops IA Cloud Engineer*** ##
- 
+
 
 -   ![telescope](https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png)  I’m currently working on **Microsoft Azure** and **AWS**, using many technos such Terraform, Ansible, Packer, Docker, Kunernetes etc...
    
